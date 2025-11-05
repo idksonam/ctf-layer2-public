@@ -7,7 +7,7 @@ Welcome to Layer 2! You’ll face two challenges:
 
 ## Files provided
 - `onion_token.txt` — Ciphertext for OnionKeys
-- (optional) `deepcrack` — Binary for the RE challenge (if available)
+- `deepcrack` — Binary for the RE challenge
 
 ## Flag format
 
@@ -20,3 +20,10 @@ Welcome to Layer 2! You’ll face two challenges:
 ## Hints (to be released by admins)
 1. Check transformation patterns, rotations, XOR.
 2. Observe per-character byte shifts.
+
+## 📝 Flag Submission
+Submit your flags using the official Google Form:  
+👉 [Submit Here](https://forms.gle/paUagMZVjRBhRYYM8)
+
+Example flag format: `flag{...}`
+
