@@ -28,3 +28,10 @@ python3 solve_onion.py
 # prints: Plain: flag{onion_crypto_layer2}
 
 OnionKeys hint: Start with a Base64 decode. If output looks like ROT13, apply ROT13. Then Vigenère decrypt (key = hackathon).
+
+
+ctf-layer2_public/
+  - deepcrack              # compiled stripped binary (uploaded)
+  - onion_token.txt        # ciphertext (string above)
+  - README_PLAYERS.md      # contains instructions + form link
+
